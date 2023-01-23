@@ -26,19 +26,38 @@ export default defineConfig({
       {
         text: 'Başlangıç',
         items: [
-          { text: 'Giriş', link: '/introduction' },
-          { text: 'home', link: '/' },
-          { text: 'Hızlı Başlangıç', link: '/quick-start' },
+          { text: 'Giriş', link: '/start/introduction' },
+          { text: 'Hızlı Başlangıç', link: '/start/quick-start' },
           // ...
         ],
       },
       {
         text: 'Temeller',
         items: [
-          { text: 'Hızlı Başlangıç', link: '/quick-start' },
+          { text: 'Bir Uygulama Oluşturma', link: '/' },
+          { text: 'Şablon Sözdizimi', link: '/' },
+          { text: 'Reaktivite Temelleri', link: '/' },
+          { text: 'Hesaplanmış Özellikler', link: '/' },
+          { text: 'Sınıf ve Stil Bağlamaları', link: '/' },
+          { text: 'Koşullu Rendering', link: '/' },
+          { text: 'Liste Oluşturma', link: '/' },
+          { text: 'Olay İşleme', link: '/' },
+          { text: 'Form Giriş Bağlamaları', link: '/' },
+          { text: 'Yaşam Döngüsü Kancaları', link: '/' },
+          { text: 'Form Giriş Bağlamaları', link: '/' },
+          { text: 'Şablon Referansları', link: '/' },
+          { text: 'Bileşenlerin Temelleri', link: '/' },
           // ...
         ],
       },
     ],
   },
 });
+
+
+
+
+
+
+
+
