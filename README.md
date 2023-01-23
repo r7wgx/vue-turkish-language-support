@@ -2,7 +2,7 @@
 
 > **Bu website, vue dökümanlarına türkce ulaşmak isteğenler için vue js'den bağımsız şekilde gönüllü olarak yapılmışdır ve orjinal içerik değildir**
 
-##Gereksinimler:
+## Gereksinimler:
 
 - Node Js
 - Vitepress
